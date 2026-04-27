@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/(app)/admin/appels-offres/[id]/comparatif/+page.svelte";

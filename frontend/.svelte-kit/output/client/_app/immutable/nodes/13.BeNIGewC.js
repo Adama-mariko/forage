@@ -1,0 +1,1 @@
+import{B as e,F as t,h as n}from"../chunks/CjXYZWpW.js";import"../chunks/idVUOa82.js";import{t as r}from"../chunks/BVPNI2dA.js";function i(i){n(`3fuive`,n=>{t(()=>{e.title=`Notifications — Admin`})}),r(i,{})}export{i as component};

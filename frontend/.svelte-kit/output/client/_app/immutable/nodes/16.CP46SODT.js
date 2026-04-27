@@ -1,0 +1,1 @@
+import{B as e,F as t,h as n}from"../chunks/CjXYZWpW.js";import"../chunks/idVUOa82.js";import{t as r}from"../chunks/DzjZMDmr.js";function i(i){n(`aky0tj`,n=>{t(()=>{e.title=`Mon profil — Admin`})}),r(i,{})}export{i as component};

@@ -1,0 +1,106 @@
+{
+	"/(auth)": [
+		"src/routes/(auth)/+layout.ts"
+	],
+	"/(app)": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/": [],
+	"/(app)/admin/appels-offres": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/admin/appels-offres/new": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/admin/appels-offres/[id]/comparatif": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/admin/dashboard": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/admin/demandes": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/admin/demandes/[id]": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/admin/demandes/[id]/offre-finale": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/admin/messages": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/admin/notifications": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/admin/notifications/parametres": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/admin/offres": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/admin/profile": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/admin/utilisateurs": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/admin/utilisateurs/[id]": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/client/dashboard": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/client/demandes": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/client/demandes/new": [
+		"src/routes/(app)/client/demandes/new/+page.ts",
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/client/demandes/[id]": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/client/messages": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/client/notifications": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/client/offres": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/client/profile": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/entreprise/appels-offres": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/entreprise/appels-offres/[id]": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/entreprise/dashboard": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/entreprise/mes-offres": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/entreprise/messages": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/entreprise/notifications": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(app)/entreprise/profile": [
+		"src/routes/(app)/+layout.ts"
+	],
+	"/(auth)/login": [
+		"src/routes/(auth)/+layout.ts"
+	],
+	"/(auth)/register-entreprise": [
+		"src/routes/(auth)/+layout.ts"
+	],
+	"/(auth)/register": [
+		"src/routes/(auth)/+layout.ts"
+	]
+}
